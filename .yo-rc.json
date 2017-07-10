@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Dominique Pianelli",
+      "authorEmail": "dominique.d.pianelli@gmail.com",
+      "authorUrl": "http://github.com/dpianelli"
+    }
+  }
+}
