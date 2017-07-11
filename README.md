@@ -1,4 +1,5 @@
-# generator-angular-firebase-startup [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# Angular Firebase Startup
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > A generator that helps scaffold out a base project for angular and firebase with authentication.
 
 ## Installation
