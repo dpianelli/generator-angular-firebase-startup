@@ -28,7 +28,6 @@ yo angular-firebase-startup
 
 Apache-2.0 © [Dominique Pianelli](http://github.com/dpianelli)
 
-
 [npm-image]: https://badge.fury.io/js/generator-angular-firebase-startup.svg
 [npm-url]: https://npmjs.org/package/generator-angular-firebase-startup
 [travis-image]: https://travis-ci.org/dpianelli/generator-angular-firebase-startup.svg?branch=master
